@@ -1,6 +1,11 @@
 # GitHub Contributions Graph - Galactic Unicorn
 
-[Galatic Unicorn](https://shop.pimoroni.com/products/space-unicorns?variant=40842033561683) from Pimoroni
+## Requirements
+
+- A [Galatic Unicorn](https://shop.pimoroni.com/products/space-unicorns?variant=40842033561683) from Pimoroni
+- A "classic" GitHub token with `user:read` access from [here](https://github.com/settings/tokens)
+- A WiFi network
+- Put the last two into `secrets.py` and put the files into your Galactic Unicorn ([maybe with ampy](https://pypi.org/project/adafruit-ampy/))
 
 ## Configuration
 
@@ -23,7 +28,7 @@ secrets = {
 
 - Refreshes the contributions graph every 5 minutes
 
-- Button A will force a refresh
+- Buttons A/B/C/D (left side) will force a refresh
 
 - Brightness keys adjust brightness
 
