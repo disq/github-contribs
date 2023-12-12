@@ -1,6 +1,8 @@
 # GitHub Contributions Graph on Hardware
 
+- [Bling! version](./bling)
 - [Galactic Unicorn version](./galactic-unicorn)
 
-![photo](./galactic-unicorn/photo.jpg)
+![Bling](./bling/bling.jpg)
 
+![Galactic Unicorn](./galactic-unicorn/galactic-unicorn.jpg)

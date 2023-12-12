@@ -35,4 +35,4 @@ secrets = {
 
 ## Result
 
-![photo](./photo.jpg)
+![photo](./galactic-unicorn.jpg)
